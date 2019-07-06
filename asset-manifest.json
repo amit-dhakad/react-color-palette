@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/amit-dhakad/react-color-palette/static/css/main.3a202737.chunk.css",
+    "main.js": "/amit-dhakad/react-color-palette/static/js/main.da904c2b.chunk.js",
+    "main.js.map": "/amit-dhakad/react-color-palette/static/js/main.da904c2b.chunk.js.map",
+    "runtime~main.js": "/amit-dhakad/react-color-palette/static/js/runtime~main.3ac7d6c9.js",
+    "runtime~main.js.map": "/amit-dhakad/react-color-palette/static/js/runtime~main.3ac7d6c9.js.map",
+    "static/js/2.e49f06cb.chunk.js": "/amit-dhakad/react-color-palette/static/js/2.e49f06cb.chunk.js",
+    "static/js/2.e49f06cb.chunk.js.map": "/amit-dhakad/react-color-palette/static/js/2.e49f06cb.chunk.js.map",
+    "index.html": "/amit-dhakad/react-color-palette/index.html",
+    "precache-manifest.80ec72ad614bd53f1c82380f2faedd25.js": "/amit-dhakad/react-color-palette/precache-manifest.80ec72ad614bd53f1c82380f2faedd25.js",
+    "service-worker.js": "/amit-dhakad/react-color-palette/service-worker.js",
+    "static/css/main.3a202737.chunk.css.map": "/amit-dhakad/react-color-palette/static/css/main.3a202737.chunk.css.map"
+  }
+}
